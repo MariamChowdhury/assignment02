@@ -7,4 +7,78 @@ body{
 }
 .top-color{
   background-color:#FFFFF4 ;
+ 
+
 }
+.nav-color a{
+  color:  #3C3C3C;
+  font-weight: bold;
+}
+p{
+  color: #3C3C3C;
+}
+.btn{
+  font-size: smaller;
+  background-color: #363958;
+  border: none;
+}
+.btn:hover{
+  background-color: #3C3C3C;
+
+  
+}
+.clr{
+  background-color: #F1F1F1;
+  border: 20px solid white;
+  border-radius: 8%;
+}
+.top{
+  border-top-right-radius: 3%;
+  border-top-left-radius: 3%;
+  border:none;
+  
+}
+.card-footer{
+  border: 0;
+  background-color: white;
+}
+.form-footer{
+  background-color: rgba(54, 57, 88,0.2);
+ 
+
+
+}
+.color1{
+  color: #363958;
+}
+.color2{
+  color: #76C27E;
+}
+h1.font{
+  color:#363958;
+  font-size: 70px;
+}
+.card-border{
+  border: 0;
+  border-radius: 10px;
+}
+h2.font{
+  font-size: 50px;
+  color:#363958;
+}
+h3,h4{
+  font-weight: bolder;
+}
+h4{
+  color:rgb(54, 57, 88);
+}
+h3{
+  color: #76C27E;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(54,57,88, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(54,57,88);
+} 
